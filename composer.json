@@ -2,7 +2,7 @@
     "name": "groowth/rabbitmq-worker",
     "description": "Basic RabbitMQ worker for Groowth",
     "type": "library",
-    "license": "NONE GRANTED",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Steven Pratt",
