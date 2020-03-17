@@ -14,8 +14,8 @@
         "nategood/commando": "^0.4.0"
     },
     "autoload": {
-        "psr-0": {
-            "Groowth": "src/Groowth/"
+        "psr-4": {
+            "Groowth\\": "src/Groowth"
         }
     }
 }
