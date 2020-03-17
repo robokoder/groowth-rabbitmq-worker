@@ -1,0 +1,21 @@
+{
+    "name": "groowth/rabbitmq-worker",
+    "description": "Basic RabbitMQ worker for Groowth",
+    "type": "library",
+    "license": "NONE GRANTED",
+    "authors": [
+        {
+            "name": "Steven Pratt",
+            "email": "steven@montlakemedia.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^2.11",
+        "nategood/commando": "^0.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Groowth": "src/Groowth/"
+        }
+    }
+}
