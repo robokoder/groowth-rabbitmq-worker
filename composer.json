@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Groowth\\": "src/Groowth"
+            "Groowth\\Worker\\": "src/Groowth/Worker/"
         }
     }
 }
